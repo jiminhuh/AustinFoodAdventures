@@ -1,0 +1,71 @@
+/* Font Import */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+
+/* Global */
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100vh;
+}
+
+/* Nav Bar */
+
+.navbar {
+    width: 100%;
+}
+
+
+/* Website Container Div */
+
+.container {
+    padding: 0;
+    margin: 0 auto;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* Landing Image */
+
+#birdbirdPhoto {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+.landing-p {
+    background-color: #ffda08;
+    color: #343a40;
+}
+
+.landing-p h2 {
+    text-align: center;
+    padding-top: 2rem;
+    color: #111;
+}
+
+.landing-p p {
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 0.8rem;
+    margin: 0;
+
+}
+
+/* Recipe Section */
+
+#cake-photo {
+    padding: 0;
+}
+
+.recipe-photo #recipe-btn {
+    position: relative;
+    bottom: 4rem;
+    left: 4.5rem;
+}
+
+#recipe-btn:hover {
+    background-color: 
+}
+
